@@ -1,0 +1,22 @@
+#LeftNav{
+	float: left;
+ 	padding: 20px; 
+  	width: 200px;
+ 	height: 150px;  
+ 	border-radius: 50%;
+}
+
+#LeftNav.img{
+}
+
+#Content{
+	width: 500 px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border-radius: 20px;
+	border:solid 8px black;
+	text-align: center;
+	padding: 20px;
+	background-color: Yellow;
+}
