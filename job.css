@@ -1,0 +1,14 @@
+#Header{
+	width; 500px; 
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border:solid 8px black;
+	border-radius: 20px;
+	text-align: center;
+	background-color: lightblue;
+}
+
+body{
+	background-color: lightblue;
+}
